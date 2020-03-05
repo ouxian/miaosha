@@ -1,4 +1,4 @@
-# miaosha
+# miaosha --这个编辑器超难用
 一个 SpringBoot+MyBatis+Html+JQuery 练习项目
 ------
     后端代码在 src 里面
