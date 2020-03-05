@@ -18,7 +18,7 @@
 主要做了登陆、注册、商品列表、商品添加等功能，后续有时间应该会再添加
 
     1、获取注册码页面
-    ![](https://github.com/ouxian/miaosha/blob/master/images/%E8%8E%B7%E5%8F%96%E9%AA%8C%E8%AF%81%E7%A0%81.jpg)
+    ![](https://github.com/ouxian/miaosha/raw/master/images/获取验证码.jpg)
     
     2、用户注册页面
     
