@@ -7,8 +7,10 @@
 
 
 后端使用：1.SpringBoot；2.MyBatis；3.部分接口遵循Restful风格；4.MySQL；
+
 其中注册时使用榛子云短信系统，使用 Mybatis 三剑客进行配置
 密码使用 MD5 加密，存入数据库中的密码是 MD5 加密之后的
+
 
 前端使用：1、Html；2、JQuery
 
