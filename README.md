@@ -1,5 +1,6 @@
 # miaosha
 一个 SpringBoot+MyBatis+Html+JQuery 练习项目
+------
     后端代码在 src 里面<br>
     前端代码在 static 文件夹里面<br>
     数据库 sql 代码在 sql 文件夹里面
@@ -10,8 +11,8 @@
 密码使用 MD5 加密，存入数据库中的密码是 MD5 加密之后的
 
 
-    ###前端使用：1、Html；2、JQuery
-    --
+前端使用：1、Html；2、JQuery
+
 
 主要做了登陆、注册、商品列表、商品添加等功能，后续有时间应该会再添加
 
