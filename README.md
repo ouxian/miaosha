@@ -21,29 +21,29 @@
 
 （4）主要做了登陆、注册、商品列表、商品添加等功能，后续有时间应该会再添加
 
-    1、获取注册码页面
+1、获取注册码页面<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/获取验证码.jpg)
 
     
-    2、用户注册页面
+2、用户注册页面<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/用户注册.jpg)  
     
-    3、用户登录页面
+3、用户登录页面<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/用户登录.jpg)
     
-    4、商品列表浏览页
+4、商品列表浏览页<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/商品列表浏览页面.jpg)
     
-    5、商品详情页
+5、商品详情页<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/商品详情页.jpg)
     
-    6、创建商品页面
+6、创建商品页面<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/创建商品.jpg)
     
-    7、创建商品成功页面
+7、创建商品成功页面<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/创建商品成功界面.jpg)
     
-    8、商品列表浏览页面-创建成功界面
+8、商品列表浏览页面-创建成功界面<br>
 ![](https://github.com/ouxian/miaosha/raw/master/images/商品列表浏览页面-创建成功界面.jpg)
     
     
