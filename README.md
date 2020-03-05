@@ -22,24 +22,24 @@
 
     
     2、用户注册页面
-    ![](https://github.com/ouxian/miaosha/raw/master/images/用户注册.jpg)  
+![](https://github.com/ouxian/miaosha/raw/master/images/用户注册.jpg)  
     
     3、用户登录页面
-    ![](https://github.com/ouxian/miaosha/raw/master/images/用户登录.jpg)
+![](https://github.com/ouxian/miaosha/raw/master/images/用户登录.jpg)
     
     4、商品列表浏览页
-    ![](https://github.com/ouxian/miaosha/raw/master/images/商品列表浏览页面.jpg)
+![](https://github.com/ouxian/miaosha/raw/master/images/商品列表浏览页面.jpg)
     
     5、商品详情页
-    ![](https://github.com/ouxian/miaosha/raw/master/images/商品详情页.jpg)
+![](https://github.com/ouxian/miaosha/raw/master/images/商品详情页.jpg)
     
     6、创建商品页面
-    ![](https://github.com/ouxian/miaosha/raw/master/images/创建商品.jpg)
+![](https://github.com/ouxian/miaosha/raw/master/images/创建商品.jpg)
     
     7、创建商品成功页面
-    ![](https://github.com/ouxian/miaosha/raw/master/images/创建商品成功界面.jpg)
+![](https://github.com/ouxian/miaosha/raw/master/images/创建商品成功界面.jpg)
     
     8、商品列表浏览页面-创建成功界面
-    ![](https://github.com/ouxian/miaosha/raw/master/images/商品列表浏览页面-创建成功界面.jpg)
+![](https://github.com/ouxian/miaosha/raw/master/images/商品列表浏览页面-创建成功界面.jpg)
     
     
