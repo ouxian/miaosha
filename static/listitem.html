@@ -14,6 +14,9 @@
 <body>
   <div class="content">
       <h3 class="form-title">商品列表浏览</h3>
+	  <div class="form-actions" align="right">
+		  <button class="btn blue" id="add" type="submit">添加商品</button>
+	  </div>
 	  <div class="table-responsive">
 		<table class="table">
 		  <thead>
@@ -54,6 +57,11 @@
                    alert("获取商品信息失败，原因为" + result.responseText);
                }
            });
+
+        $("#add").on("click",function () {
+			window.location.href = "cerateitem.html"
+        })
+
        });
 
 	function reloadDom(){
